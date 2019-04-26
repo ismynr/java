@@ -2,3 +2,4 @@
 - Pemrograman Koputer
 - Interasi Manusia dan Komputer
 - Jaringan Komputer
+- Komputasi Numerik
