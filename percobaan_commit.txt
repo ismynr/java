@@ -3,3 +3,5 @@
 - Interasi Manusia dan Komputer
 - Jaringan Komputer
 - Komputasi Numerik
+- Client Server
+- Sistem Digital
