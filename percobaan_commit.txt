@@ -4,4 +4,4 @@
 - Jaringan Komputer
 - Komputasi Numerik
 - Client Server
-- Sistem Digital
+- Object Oriented Progamming
